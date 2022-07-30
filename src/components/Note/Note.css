@@ -1,0 +1,7 @@
+.Note:hover{
+    cursor: pointer;
+    background-color: #cbccce;
+}
+.Icon:hover{
+    color: red;
+}
